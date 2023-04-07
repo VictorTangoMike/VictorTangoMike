@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @VictorTangoMike
-- 👀 I’m interested in Front-End
-- 🌱 I’m currently learning HTML and CSS
+- ✈️ Curiosity: I'm an airplane pilot
+- 👀 I’m interested in UX/UI
+- 🌱 I’m currently learning JavaScript and TyperScript
 - 📫 victorhgabriel3@gmail.com
 
 <!---
