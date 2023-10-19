@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @VictorTangoMike
 - ✈️ Curiosity: I'm an airplane pilot
-- 👀 I’m interested in UX/UI
 - 🌱 I’m currently learning JavaScript and TyperScript
 
 ##
