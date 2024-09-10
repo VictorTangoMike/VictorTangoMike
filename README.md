@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @VictorTangoMike
-- ✈️ Curiosity: I'm an airplane pilot
+- ✈️ Curiosity: I'm an private pilot
 - 🌱 I’m always learning
 
 ##
