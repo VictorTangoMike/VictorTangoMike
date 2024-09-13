@@ -21,7 +21,7 @@
   <a href="[https://github.com/VictorTangoMike](https://github.com/VictorTangoMike)"> 
   <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=VictorTangoMike&exclude_repo=git-stats&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
     <p></p>
-  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=VictorTangoMike&exclude_repo=git-stats&layout=compact&langs_count=16&theme=tokyonight"/
+  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=VictorTangoMike&exclude_repo=git-stats&layout=compact&langs_count=16&theme=tokyonight&include_all_commits=true&count_private=true"/
 </div>
 
 ##
